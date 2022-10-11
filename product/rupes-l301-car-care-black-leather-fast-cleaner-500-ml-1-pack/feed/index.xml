@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
 	>
-
 <channel>
-	<title>EXIT GAME</title>
-	<atom:link href="https://tranminhquan499.github.io/MyWordprees/feed/" rel="self" type="application/rss+xml" />
-	<link>https://tranminhquan499.github.io/MyWordprees</link>
+	<title>
+	Các phản hồi luận về: RUPES L301 Car Care Black Leather Fast Cleaner, 500 Ml, 1 Pack	</title>
+	<atom:link href="https://tranminhquan499.github.io/MyWordprees/product/rupes-l301-car-care-black-leather-fast-cleaner-500-ml-1-pack/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tranminhquan499.github.io/MyWordprees/product/rupes-l301-car-care-black-leather-fast-cleaner-500-ml-1-pack/</link>
 	<description></description>
 	<lastBuildDate>Tue, 11 Oct 2022 09:03:20 +0000</lastBuildDate>
-	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
